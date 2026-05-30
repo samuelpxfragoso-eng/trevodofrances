@@ -1,0 +1,6 @@
+{
+  "name": "Associação Trevo do Francês",
+  "description": "Landing page oficial da Associação de Moradores e Amigos do Entorno do Trevo do Francês. Comunidade integrada, transparente e protegida com segurança inteligente por IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
